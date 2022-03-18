@@ -10,7 +10,7 @@ public class ControlCharacter : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        transform.position = new Vector3(-3.452276F, 0.1900001F, -3.704882F);
+        transform.position = new Vector3(3.185495F, 0F, -11.76979F);
       
     }
 
